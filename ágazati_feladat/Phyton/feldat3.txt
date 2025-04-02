@@ -1,0 +1,137 @@
+nĂŠv;vĂĄros;orszĂĄg;magassĂĄg;emelet;ĂŠpĂźlt
+10 Upper Bank Street;London;Anglia;151;32;2003
+25 Bank Street;London;Anglia;153;33;2003
+30 St Mary Axe;London;Anglia;179,8;41;2003
+40 Bank Street;London;Anglia;153;33;2003
+Aliye Parusa 2;Moszkva;OroszorszĂĄg;175,6;48;2003
+Avaz Twist Tower;SzarajevĂł;Bosznia-Hercegovina;172;40;2007
+Avenue, 77 block 1;Moszkva;OroszorszĂĄg;155;43;2008
+Avenue, 77 block 2;Moszkva;OroszorszĂĄg;155;43;2008
+Beetham Tower;Manchester;Anglia;169;50;2006
+Broadgate Tower;London;Anglia;164,3;35;2007
+Centrum LIM;VarsĂł;LengyelorszĂĄg;140;43;1989
+Citigroup Centre;London;Anglia;199,5;45;2001
+City of Capitals;Moszkva;OroszorszĂĄg;256,9;65;2010
+City-Haus;Frankfurt;NĂŠmetorszĂĄg;142;42;1974
+City-Hochohaus-Leipzig;Lipcse;NĂŠmetorszĂĄg;142;36;1971
+CoC: Moscow Tower;Moszkva;OroszorszĂĄg;301,6;76;2010
+Coeur DĂŠfense;PĂĄrizs;FranciaorszĂĄg;161;40;2001
+Colonia-Hochhaus;KĂśln;NĂŠmetorszĂĄg;147;42;1972
+Commerzbank Tower;Frankfurt;NĂŠmetorszĂĄg;258,7;56;1997
+DC Towers 1;BĂŠcs;Ausztria;220;60;2014
+Deutsche Bank Twin Towers I;Frankfurt;NĂŠmetorszĂĄg;155;40;1984
+Deutsche Bank Twin Towers II;Frankfurt;NĂŠmetorszĂĄg;155;38;1984
+Dexia Tower;BrĂźsszel;Belgium;145;38;2006
+Dom v Sokolnyikah;Moszkva;OroszorszĂĄg;146,9;43;2008
+Edelweiss;Moszkva;OroszorszĂĄg;176;43;2003
+Eurasia;Moszkva;OroszorszĂĄg;308,9;72;2014
+Europa Tower;Vilnius;LitvĂĄnia;148;33;2004
+Eurotower;Frankfurt;NĂŠmetorszĂĄg;148;39;1977
+Federation Tower;Moszkva;OroszorszĂĄg;242,4;62;2007
+Federation Tower: East Tower;Moszkva;OroszorszĂĄg;373,7;95;2016
+Finance Tower;BrĂźsszel;Belgium;145;36;1984
+Frankfurter BĂźro Center;Frankfurt;NĂŠmetorszĂĄg;142;40;1980
+Garibaldi Tower;MilĂĄnĂł;OlaszorszĂĄg;231;32;2012
+Gazprom;Moszkva;OroszorszĂĄg;151;35;1994
+Gebouw Delftse Poort 1;Rotterdam;Hollandia;151;41;1992
+Gran Hotel Bali;Benidorm;SpanyolorszĂĄg;187;52;2002
+Guy's Tower;London;Anglia;142,6;34;1974
+Heron Tower;London;Anglia;230;46;2010
+Hochaus Uptown MĂźnchen;MĂźnchen;NĂŠmetorszĂĄg;146;38;2004
+Hochhaus Neue Donau;BĂŠcs;Ausztria;150;34;2001
+Hoftoren;HĂĄga;Hollandia;142;30;2003
+Hotel Arts Barcelona;Barcelona;SpanyolorszĂĄg;154;44;1992
+Hotel Ukrajna;Moszkva;OroszorszĂĄg;198;34;1955
+HSBC Tower;London;Anglia;199,5;45;2002
+InterContinental Warsaw;VarsĂł;LengyelorszĂĄg;164;45;2003
+Isbank Tower 1;Isztambul;TĂśrĂśkorszĂĄg;181;52;2000
+IZD Tower;BĂŠcs;Ausztria;140;37;2001
+Izmailovszkij blokk 1;Moszkva;OroszorszĂĄg;140;37;2008
+Izmailovszkij blokk 2;Moszkva;OroszorszĂĄg;140;37;2008
+Jen-Tower;JĂŠna;NĂŠmetorszĂĄg;145;30;1973
+Kotyelnyicseszkaja;Moszkva;OroszorszĂĄg;176;32;1952
+KĂśln Turm;KĂśln;NĂŠmetorszĂĄg;148;43;2001
+Kudrinszkaja tĂŠri ĂŠpĂźlet;Moszkva;OroszorszĂĄg;160;22;1954
+KultĂşra ĂŠs TudomĂĄny PalotĂĄja;VarsĂł;LengyelorszĂĄg;231;43;1955
+Lomonoszov Egyetem;Moszkva;OroszorszĂĄg;240;36;1953
+Maintower;Frankfurt;NĂŠmetorszĂĄg;200;55;1999
+Mercury City Tower;Moszkva;OroszorszĂĄg;338,8;75;2013
+Messeturm;Frankfurt;NĂŠmetorszĂĄg;256,6;55;1990
+Metrocity Tower 1;Isztambul;TĂśrĂśkorszĂĄg;143;31;2000
+Metrocity Tower 2;Isztambul;TĂśrĂśkorszĂĄg;143;35;2000
+Metrocity Tower 3;Isztambul;TĂśrĂśkorszĂĄg;143;35;2000
+Metropol Istanbul;Isztambul;TĂśrĂśkorszĂĄg;280;59;2017
+Millennium Tower;Rotterdam;Hollandia;149;35;2000
+Millenniumi torony;BĂŠcs;Ausztria;202;51;1999
+Montevideo;Rotterdam;Hollandia;140;43;2005
+Naberezhnaya Tower C;Moszkva;OroszorszĂĄg;268,4;76;2007
+Neguri Gane;Benidorm;SpanyolorszĂĄg;145;40;2002
+OKO: South Tower;Moszkva;OroszorszĂĄg;354,1;85;2015
+One Canada Square;London;Anglia;235,1;50;1991
+One Churchill Place;London;Anglia;156;32;2004
+OroszorszĂĄg KĂźlĂźgyminisztĂŠriuma;Moszkva;OroszorszĂĄg;172;27;1953
+Pan Peninsula;London;Anglia;147,39;48;2008
+Plaza BĂźro Center;Frankfurt;NĂŠmetorszĂĄg;159;47;1976
+Polat Tower Residence;Isztambul;TĂśrĂśkorszĂĄg;153;40;2001
+Post Tower;Bonn;NĂŠmetorszĂĄg;163;42;2002
+Rembrandt Tower;Amszterdam;Hollandia;150;36;1995
+Rondo 1-B;VarsĂł;LengyelorszĂĄg;159;40;2006
+Sabanci Center;Isztambul;TĂśrĂśkorszĂĄg;158;39;1993
+Sabanci Center 2;Isztambul;TĂśrĂśkorszĂĄg;140;34;1993
+Sapphire of Istanbul;Isztambul;TĂśrĂśkorszĂĄg;261;54;2011
+Silver Tower;Frankfurt;NĂŠmetorszĂĄg;166;32;1978
+Sisli Elit Residence;Isztambul;TĂśrĂśkorszĂĄg;140;35;2000
+Sisli Plaza;Isztambul;TĂśrĂśkorszĂĄg;170;46;2007
+Sky Tower;Wroclaw;LengyelorszĂĄg;212;50;2012
+Skyland Istanbul 1;Isztambul;TĂśrĂśkorszĂĄg;293,1;65;2017
+Skyland Istanbul 2;Isztambul;TĂśrĂśkorszĂĄg;293,1;65;2017
+Skyper;Frankfurt;NĂŠmetorszĂĄg;154;38;2004
+Sparrow Hills-Tower I;Moszkva;OroszorszĂĄg;155;44;2004
+Sparrow Hills-Tower III;Moszkva;OroszorszĂĄg;155;44;2004
+Sparrow Hills-Tower II;Moszkva;OroszorszĂĄg;188,2;49;2004
+Sun Plaza;Isztambul;TĂśrĂśkorszĂĄg;147;38;2005
+SĂźzer Plaza Ritz-Carlton;Isztambul;TĂśrĂśkorszĂĄg;154;34;1998
+Swissotel Krasznije Holmi;Moszkva;OroszorszĂĄg;162;35;2005
+TAT, Istanbul Tower 1;Isztambul;TĂśrĂśkorszĂĄg;143;34;2000
+TAT, Istanbul Tower 2;Isztambul;TĂśrĂśkorszĂĄg;143;34;2000
+Tekstilkent Plaza 1;Isztambul;TĂśrĂśkorszĂĄg;168;44;2000
+Tekstilkent Plaza 2;Isztambul;TĂśrĂśkorszĂĄg;168;44;2000
+The Shard;London;Anglia;309,6;87;2012
+Torre Agbar;Barcelona;SpanyolorszĂĄg;144,44;33;2004
+Torre Caja Madrid;Madrid;SpanyolorszĂĄg;250;45;2007
+Torre de Cristal;Madrid;SpanyolorszĂĄg;249,5;45;2007
+Torre de Madrid;Madrid;SpanyolorszĂĄg;142;37;1957
+Torre Espacio;Madrid;SpanyolorszĂĄg;224;57;2008
+Torre Mapfre;Barcelona;SpanyolorszĂĄg;154;40;1992
+Torre Picasso;Madrid;SpanyolorszĂĄg;156;43;1988
+Torre PwC;Madrid;SpanyolorszĂĄg;236;52;2008
+Torre Sacyr Vallehermoso;Madrid;SpanyolorszĂĄg;236;52;2007
+Tour Adria;PĂĄrizs;FranciaorszĂĄg;155;40;2002
+Tour Alicante;PĂĄrizs;FranciaorszĂĄg;167;37;1995
+Tour Areva;PĂĄrizs;FranciaorszĂĄg;184;44;1974
+Tour Ariane;PĂĄrizs;FranciaorszĂĄg;152;36;1975
+Tour Assur (AXA);PĂĄrizs;FranciaorszĂĄg;159;39;1974
+Tour CBX;PĂĄrizs;FranciaorszĂĄg;142;36;2005
+Tour Chassagne;PĂĄrizs;FranciaorszĂĄg;167;37;1995
+Tour de Bretagne;Nantes;FranciaorszĂĄg;144;32;1976
+Tour du CrĂŠdit Lyonnais;Lyon;FranciaorszĂĄg;165;42;1977
+Tour du Midi;BrĂźsszel;Belgium;150;38;1967
+Tour EDF;PĂĄrizs;FranciaorszĂĄg;165;41;2001
+Tour EgĂŠe;PĂĄrizs;FranciaorszĂĄg;155;40;1999
+Tour First;PĂĄrizs;FranciaorszĂĄg;231;50;2011
+Tour Gan;PĂĄrizs;FranciaorszĂĄg;179;44;1974
+Tour Granite;PĂĄrizs;FranciaorszĂĄg;183;36;2008
+Tour Montparnasse;PĂĄrizs;FranciaorszĂĄg;210;59;1972
+Tour Pleyel;PĂĄrizs;FranciaorszĂĄg;143;37;1972
+Tour T1;PĂĄrizs;FranciaorszĂĄg;185;36;2008
+Tour Total;PĂĄrizs;FranciaorszĂĄg;187;48;1985
+Tower 42;London;Anglia;183;43;1980
+Trianon;Frankfurt;NĂŠmetorszĂĄg;186;45;1993
+Triumph - Palace;Moszkva;OroszorszĂĄg;264,1;57;2005
+Turning Torso;MalmĂś;SvĂŠdorszĂĄg;190;57;2005
+Usce Tower;BelgrĂĄd;Szerbia;141,1;24;2004
+Warsaw Financial Center;VarsĂł;LengyelorszĂĄg;144;35;1999
+Warsaw Trade Tower;VarsĂł;LengyelorszĂĄg;208;43;1999
+West Tower;Liverpool;Anglia;140;40;2007
+Westendstrase 1;Frankfurt;NĂŠmetorszĂĄg;208;53;1993
+Westpoint Tower;Tilburg;Hollandia;142;48;2004
